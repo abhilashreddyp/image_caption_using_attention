@@ -7,7 +7,7 @@ Sample Visulization of Attention:
 
 [logo]: https://github.com/pankajb64/image_caption_using_attention/blob/master/results/dog_viz_c.png "A dog leaps into the air in a grassy field surrounded by trees" 
  
-To run the attention code run `code/notebooks/Keras Attention Trial.ipynb`
+To run the attention code, run `code/notebooks/Keras Attention Trial.ipynb`
 
 Requirements:
 * Keras
