@@ -6,11 +6,11 @@ Reference - Xu, Kelvin, et al. "Show, attend and tell: Neural image caption gene
 To run the attention code run `code/notebooks/Keras Attention Trial.ipynb`
 
 Requirements:
-Keras
-Theano
-Numpy
-Scipy
-Scikit-Image
+* Keras
+* Theano
+* Numpy
+* Scipy
+* Scikit-Image
 
 http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/
 https://keras.io/getting-started/sequential-model-guide/#examples
