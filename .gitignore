@@ -10,3 +10,7 @@ img/*
 Flicker8K_Dataset/*
 attention_mechanisms_img_caption/data/*
 attention_mechanisms_image_caption/data/*
+To DO
+dataset/*.json
+features/*.pkl
+weights/*.h5

@@ -1,4 +1,16 @@
- Image Caption using Attension
+Image Caption using Attension - https://www.researchgate.net/project/Image-Caption-using-Visual-Attention
+
+Reference - Xu, Kelvin, et al. "Show, attend and tell: Neural image caption generation with visual attention." arXiv preprint arXiv:1502.03044 2.3 (2015): 5.
+ 
+ 
+To run the attention code run `code/notebooks/Keras Attention Trial.ipynb`
+
+Requirements:
+Keras
+Theano
+Numpy
+Scipy
+Scikit-Image
 
 http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/
 https://keras.io/getting-started/sequential-model-guide/#examples

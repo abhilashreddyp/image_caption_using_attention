@@ -1,8 +1,0 @@
-RNN
-1) CNN Trained Features
-2) Forward Pass
-  a) Temporal Affine Layer
-  b) Word Embedding Layer
-  c) RNN Step Forward
-  d) Temporal Affine Layer
-3) Get Loss & do BackProp
