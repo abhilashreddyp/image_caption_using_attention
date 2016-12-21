@@ -1,7 +1,11 @@
 Image Caption using Attension - https://www.researchgate.net/project/Image-Caption-using-Visual-Attention
 
-Reference - Xu, Kelvin, et al. "Show, attend and tell: Neural image caption generation with visual attention." arXiv preprint arXiv:1502.03044 2.3 (2015): 5.
+Reference - Xu, Kelvin, et al. "Show, attend and tell: Neural image caption generation with visual attention." arXiv preprint arXiv:1502.03044 2.3 (2015): 5. - https://arxiv.org/abs/1502.03044
  
+Sample Visulization of Attention: 
+![A dog leaps into the air in a grassy field surrounded by trees][logo]
+
+[logo]: https://github.com/pankajb64/image_caption_using_attention/blob/master/results/dog_viz_c.png "A dog leaps into the air in a grassy field surrounded by trees" 
  
 To run the attention code run `code/notebooks/Keras Attention Trial.ipynb`
 
