@@ -1,7 +1,9 @@
 Image Caption using Attension - https://www.researchgate.net/project/Image-Caption-using-Visual-Attention
 
 Reference - Xu, Kelvin, et al. "Show, attend and tell: Neural image caption generation with visual attention." arXiv preprint arXiv:1502.03044 2.3 (2015): 5. - https://arxiv.org/abs/1502.03044
- 
+
+In this project, we incorporated an attention mechanism with gradient descent based training algorithms to build a deep learning model that learns to generate image descriptions given an unseen image, inspired by the state-of-the-art work in this field. Our results showed that attention based deep learning models can learn to produce good image captions and generate visualizations to infer how a model can focus on certain parts of the image while predicting the next word. We used a Convolutional Neural Network (CNN) to generate attention based features and a Long Short-term Memory Network (LSTM) for generating image captions.
+
 Sample Visulization of Attention: 
 ![A dog leaps into the air in a grassy field surrounded by trees][logo]
 
