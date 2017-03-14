@@ -1,4 +1,4 @@
-Image Caption using Attension - https://www.researchgate.net/project/Image-Caption-using-Visual-Attention
+Image Caption using Attension - https://www.researchgate.net/project/Image-Caption-using-Visual-Attention, final Report [here](reports/Report%20-%20Image%20Captioning%20with%20Visual%20Attention.pdf)
 
 Reference - Xu, Kelvin, et al. "Show, attend and tell: Neural image caption generation with visual attention." arXiv preprint arXiv:1502.03044 2.3 (2015): 5. - https://arxiv.org/abs/1502.03044
 
